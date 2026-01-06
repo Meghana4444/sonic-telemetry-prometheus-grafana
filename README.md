@@ -16,6 +16,8 @@ To build a scalable and real-time telemetry monitoring system.
 ## Architecture Diagram
 Network Telemetry Source -> Exporter → Prometheus → Grafana → User ![Architecture](architecture.png)
 - Python-based telemetry exporter
+  <img width="1900" height="923" alt="image" src="https://github.com/user-attachments/assets/468061f7-5611-4309-a2c1-fd3a8cb8b2dd" />
+
 - Prometheus for metric collection
 - Grafana for visualization
 
