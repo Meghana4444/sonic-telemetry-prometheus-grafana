@@ -19,6 +19,8 @@ Network Telemetry Source -> Exporter → Prometheus → Grafana → User ![Archi
   <img width="1900" height="923" alt="image" src="https://github.com/user-attachments/assets/468061f7-5611-4309-a2c1-fd3a8cb8b2dd" />
 
 - Prometheus for metric collection
+  <img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/5a6708ba-7f99-43f0-8077-a27a0182aec3" />
+
 - Grafana for visualization
 
 ## Metrics Used
