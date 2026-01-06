@@ -14,8 +14,7 @@ Traditional network monitoring systems are reactive and slow.
 To build a scalable and real-time telemetry monitoring system.
 
 ## Architecture Diagram
-Network Telemetry Source -> Exporter → Prometheus → Grafana → User ![Architecture](screenshots/architecture.png)
-
+Network Telemetry Source -> Exporter → Prometheus → Grafana → User "C:\Users\MEGHANA N\OneDrive\Pictures\Screenshots\architecture.png"
 ## Implementation
 - Python-based telemetry exporter
 - Prometheus for metric collection
